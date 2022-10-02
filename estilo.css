@@ -30,3 +30,7 @@ input[type=submit]{
     width:50%;
     margin-left: 25%;
 }
+
+button#calcular{
+    margin-left: 35%;
+}
